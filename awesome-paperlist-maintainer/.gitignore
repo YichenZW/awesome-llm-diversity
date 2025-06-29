@@ -1,0 +1,8 @@
+__pycache__/
+data/
+.DS_Store
+*.egg-info/
+
+*copy*
+*diversity*
+*creativity*
