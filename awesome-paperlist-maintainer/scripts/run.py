@@ -1,6 +1,10 @@
 import json
 from src.paper import Paper
 from config.config import CUSTOM_CATEGORY_ORDER
+import os
+
+os.makedirs('data', exist_ok=True)
+os.makedirs('outputs', exist_ok=True)
 
 url_list_file = 'url_lists/url_list.txt'
 rawlist_file = 'data/raw_paper_list.json'

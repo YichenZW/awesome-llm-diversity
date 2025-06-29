@@ -1,17 +1,27 @@
 TOPIC_CATAGORIES_ABBR = {
-    "A": "Topic A",
-    "B": "Topic B",
-    "C": "Topic C",
-    "D": "Topic D",
-    "E": "Topic E"
+    "Align": "Alignment",
+    "Meas": "Measurement and Analysis",
+    "Anal": "Measurement and Analysis",
+    "Plur": "Pluralism",
+    "Method": "Methodology",
+    "FT": "Methodology/Finetuning",
+    "RL": "Methodology/Reinforcement Learning",
+    "Dec": "Methodology/Decoding",
+    "HC": "Human-Centered Analysis and Application",
+    "MCML": "Multi-Culture and Multi-Lingual Application",
+    "Appl": "Application",
+    "Other": "Other",
 }
 
 CUSTOM_CATEGORY_ORDER = [
-    "Topic A",
-    "Topic B",
-    "Topic C",
-    "Topic D",
-    "Topic E"
+    "Methodology", 
+    "Measurement and Analysis",
+    "Alignment",
+    "Pluralism",
+    "Application",
+    "Human-Centered Analysis and Application",
+    "Multi-Culture and Multi-Lingual Application",
+    "Other"
 ]
 
 VENUE = ["ICLR", "NeurIPS", "NIPS", "ICML", "CVPR", "ECCV", "ACL", "EMNLP", "AAAI", "SIGGRAPH", "SIGIR", "WWW", "NAACL", "COLING", "COLM", "CHI"]

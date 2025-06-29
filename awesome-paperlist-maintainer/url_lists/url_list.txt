@@ -1,10 +1,91 @@
-https://arxiv.org/abs/2505.08762, A, keyword 1
-https://arxiv.org/abs/2504.04100, B, keyword 2
-https://arxiv.org/abs/2411.12503, C, keyword 3
-https://arxiv.org/pdf/2409.01586, B, keyword 4
-https://arxiv.org/abs/2409.02668, E, keyword 3
-https://arxiv.org/abs/2310.06770, E, keyword 3
-https://arxiv.org/abs/2408.00082, C, keyword 2/keyword 5
-https://arxiv.org/abs/2505.17221, A, keyword 3
-https://arxiv.org/abs/2309.10811, D, keyword 3
-https://arxiv.org/abs/1908.03793, F, keyword 1
+http://arxiv.org/abs/2012.11635, FT
+http://arxiv.org/abs/2302.08215, RL
+http://arxiv.org/abs/2310.16523, Plur
+http://arxiv.org/abs/2410.06415, Plur
+http://arxiv.org/abs/2309.00779, Plur
+https://arxiv.org/abs/2402.11782, Anal
+http://arxiv.org/abs/2312.09203, Meas
+https://arxiv.org/abs/2307.14324v1, Anal
+http://arxiv.org/abs/2203.05482, FT
+http://arxiv.org/abs/2312.08358, RL
+http://arxiv.org/abs/2310.16048, Align
+http://arxiv.org/abs/2402.05070, Plur
+http://arxiv.org/abs/2303.17548, Plur
+http://arxiv.org/abs/2406.15951, Plur
+http://arxiv.org/abs/2406.17692, Plur
+http://arxiv.org/abs/2309.16240, RL
+https://arxiv.org/abs/2307.15703, Other, Survey
+https://arxiv.org/abs/2305.19187, Meas
+https://arxiv.org/abs/2304.02812, Meas
+https://arxiv.org/abs/2305.11707, Meas
+https://arxiv.org/abs/2306.15895, Plur
+https://arxiv.org/abs/2309.05196, HC
+http://arxiv.org/abs/2305.12947, Anal
+https://arxiv.org/abs/2310.06452, Anal
+https://arxiv.org/abs/1904.02792, Meas
+http://arxiv.org/abs/2311.09799, Plur
+https://arxiv.org/abs/2311.09807, Anal, Data Synthesis
+https://arxiv.org/abs/2311.10943, Method, Framework
+https://arxiv.org/abs/2205.01497, Meas
+http://arxiv.org/abs/2210.05725, Meas
+http://arxiv.org/abs/2306.07899, HC
+http://arxiv.org/abs/2505.14442, RL
+http://arxiv.org/abs/2410.04070, Dec, Personalization
+http://arxiv.org/abs/2309.03126, Align
+http://arxiv.org/abs/2403.17141, Align
+http://arxiv.org/abs/2306.04488, RL
+https://www.cambridge.org/core/elements/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB, Anal, Psychology
+https://aclanthology.org/2023.c3nlp-1.5, MCML
+https://arxiv.org/abs/2203.14498, MCML, Benchmark
+http://arxiv.org/abs/2405.13974, MCML, Benchmark
+http://arxiv.org/abs/2310.17586, MCML
+http://arxiv.org/abs/2305.16171, MCML
+http://arxiv.org/abs/2305.11840, MCML, Benchmark
+http://arxiv.org/abs/2310.18974, MCML
+http://arxiv.org/abs/2309.04766, MCML
+http://arxiv.org/abs/2309.06085, MCML
+http://arxiv.org/abs/2309.09400, MCML
+http://arxiv.org/abs/2404.10271, Align
+http://arxiv.org/abs/2404.16019, Plur
+http://arxiv.org/abs/2410.23252, Appl, Web Agent/Benchmark
+https://arxiv.org/abs/2001.09604, HC
+http://arxiv.org/abs/2404.15238, MCML
+http://arxiv.org/abs/2306.16388, Meas, Question Answering/Dataset
+http://arxiv.org/abs/2410.21236, Dec
+http://arxiv.org/abs/2402.10200, Dec, Reasoning/CoT
+http://arxiv.org/abs/2102.01995, Other, Voting Theory
+https://arxiv.org/abs/1209.1688, Other, Ranking Algorithm
+https://arxiv.org/abs/2203.10020, MCML
+http://arxiv.org/abs/2310.11667, Appl, Multi Agent
+http://arxiv.org/abs/2405.17977, Align
+http://arxiv.org/abs/2312.03121, Align
+http://arxiv.org/abs/2310.02457, Align
+http://arxiv.org/abs/2404.10859, Method, Randomness
+http://arxiv.org/abs/2410.09038, Method
+http://arxiv.org/abs/2410.12138, Align
+http://arxiv.org/abs/2404.16019, Plur, Dataset
+http://arxiv.org/abs/2406.10323, Appl, Data Synthesis
+http://arxiv.org/abs/2407.09007, Appl, Code Generation
+http://arxiv.org/abs/2402.10693, Meas
+http://arxiv.org/abs/2404.16807, Method
+https://arxiv.org/abs/2309.14556, Meas
+http://arxiv.org/abs/2309.17167, Meas, Reasoning
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.467, Meas, Story Writing
+https://aclanthology.org/2024.emnlp-demo.16.pdf, MCML
+http://arxiv.org/abs/2410.02677, MCML, Benchmark
+http://arxiv.org/abs/2302.12170, Meas
+http://arxiv.org/abs/2310.16523, Method
+http://arxiv.org/abs/2502.05234, Method, Temperature
+http://arxiv.org/abs/2310.14509, RL
+http://arxiv.org/abs/2202.03418, Method
+http://arxiv.org/abs/2306.15895, Appl, Data Synthesis
+http://arxiv.org/abs/2503.17126, RL
+http://arxiv.org/abs/2305.13733, Method
+http://arxiv.org/abs/2504.05228, Meas, Benchmark
+http://arxiv.org/abs/2504.05154, MCML
+http://arxiv.org/abs/2406.04145, Meas
+http://arxiv.org/abs/2505.00047, Meas
+http://arxiv.org/abs/2410.03868, Align
+http://arxiv.org/abs/2506.04721, Align
+http://arxiv.org/abs/2502.10390, Anal, Randomness
+https://arxiv.org/abs/1610.02424, Dec
