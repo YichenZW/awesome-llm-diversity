@@ -284,25 +284,6 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
   Keywords: Data Synthesis.
 
-## Other
-
-
-
-* **Uncertainty in Natural Language Generation: From Theory to Applications** [[paper](http://arxiv.org/abs/2307.15703)] 2023-07  
-      Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz.
-
-  Keywords: Survey.
-
-* **Convergence Voting: From Pairwise Comparisons to Consensus** [[paper](http://arxiv.org/abs/2102.01995)] 2021-02  
-      Gergei Bana, Wojciech Jamroga, David Naccache, Peter Y. A. Ryan.
-
-  Keywords: Voting Theory.
-
-* **Rank Centrality: Ranking from Pair-wise Comparisons** [[paper](http://arxiv.org/abs/1209.1688)] 2012-09  
-      Sahand Negahban, Sewoong Oh, Devavrat Shah.
-
-  Keywords: Ranking Algorithm.
-
 ## Human-Centered Analysis and Application
 
 
@@ -366,4 +347,23 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 * **Challenges and Strategies in Cross-Cultural NLP** [[paper](http://arxiv.org/abs/2203.10020)] 2022-03  
       Daniel Hershcovich, Stella Frank, Heather Lent, Miryam de Lhoneux, Mostafa Abdou, Stephanie Brandl, Emanuele Bugliarello, Laura Cabello Piqueras, Ilias Chalkidis, Ruixiang Cui, Constanza Fierro, Katerina Margatina, Phillip Rust, Anders Søgaard. **ACL 2022**.
+
+## Other
+
+
+
+* **Uncertainty in Natural Language Generation: From Theory to Applications** [[paper](http://arxiv.org/abs/2307.15703)] 2023-07  
+      Joris Baan, Nico Daheim, Evgenia Ilia, Dennis Ulmer, Haau-Sing Li, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz.
+
+  Keywords: Survey.
+
+* **Convergence Voting: From Pairwise Comparisons to Consensus** [[paper](http://arxiv.org/abs/2102.01995)] 2021-02  
+      Gergei Bana, Wojciech Jamroga, David Naccache, Peter Y. A. Ryan.
+
+  Keywords: Voting Theory.
+
+* **Rank Centrality: Ranking from Pair-wise Comparisons** [[paper](http://arxiv.org/abs/1209.1688)] 2012-09  
+      Sahand Negahban, Sewoong Oh, Devavrat Shah.
+
+  Keywords: Ranking Algorithm.
 

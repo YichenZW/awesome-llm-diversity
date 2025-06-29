@@ -9,6 +9,8 @@ git remote add public git@github.com:YichenZW/awesome-llm-diversity.git
 
 ### Push to developer repo
 ```
+git add .
+git commit -m <message>
 git push private main
 ```
 
