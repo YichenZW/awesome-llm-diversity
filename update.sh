@@ -5,5 +5,5 @@ MAINTAINER=../awesome-paper/awesome-paperlist_maintainer
 cd "$MAINTAINER"
 pip install -e . -q
 PROJECT_NAME=diversity PYTHONPATH=. python scripts/run.py
-rsync -a outputs/diversity.md ../awesome-llm-diversity/public/README.md
-echo "Done. public/README.md updated."
+rsync -a outputs/diversity.md ../awesome-llm-diversity/README.md
+echo "Done. README.md updated."
