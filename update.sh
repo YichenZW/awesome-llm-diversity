@@ -1,5 +1,9 @@
-# after updated awesome-paperlist-maintainer/url_lists/url_list.txt
-cd awesome-paperlist-maintainer
-pip install -e .
-PYTHONPATH=. python scripts/run.py
-rsync -a outputs/main.md ../public/README.md 
+# Run from the awesome-llm-diversity root directory.
+# Updates the diversity paper list and syncs it to public/README.md.
+cd "$(dirname "$0")"
+MAINTAINER=../awesome-paper/awesome-paperlist_maintainer
+cd "$MAINTAINER"
+pip install -e . -q
+PROJECT_NAME=diversity PYTHONPATH=. python scripts/run.py
+rsync -a outputs/diversity.md ../awesome-llm-diversity/public/README.md
+echo "Done. public/README.md updated."
