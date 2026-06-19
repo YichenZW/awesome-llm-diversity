@@ -63,6 +63,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 * **Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models** [[paper](http://arxiv.org/abs/2601.22629)] 2026-05  
       Jingxuan Wu, Zhenglin Wan, Xingrui Yu, Yuzhe Yang, Yiqiao Huang, Ivor Tsang, Yang You.
 
+* **Inducing Sustained Creativity and Diversity in Large Language Models** [[paper](http://arxiv.org/abs/2603.19519)] 2026-03  
+      Queenie Luo, Gary King, Michael Puett, Michael D. Smith.
+
 * **REAL Sampling: Boosting Factuality and Diversity of Open-ended Generation by Extrapolating the Entropy of an Infinitely Large LM** [[paper](http://doi.org/10.1162/tacl_a_00757)] 2025-10  
       Haw-Shiuan Chang, Nanyun Peng, Mohit Bansal, Anil Ramakrishna, Tagyoung Chung.
 
@@ -163,6 +166,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 * **Modifying Large Language Model Post-Training for Diverse Creative Writing** [[paper](http://arxiv.org/abs/2503.17126)] 2025-03  
       John Joon Young Chung, Vishakh Padmakumar, Melissa Roemmele, Yuqian Sun, Max Kreminski.
+
+* **Diverse Preference Optimization** [[paper](http://arxiv.org/abs/2501.18101)] 2025-01  
+      Jack Lanchantin, Angelica Chen, Shehzaad Dhuliawala, Ping Yu, Jason Weston, Sainbayar Sukhbaatar, Ilia Kulikov.
 
 * **Improving Linguistic Diversity of Large Language Models with Possibility Exploration Fine-Tuning** [[paper](http://arxiv.org/abs/2412.03343)] 2024-12  
       Long Mai, Julie Carson-Berndsen.
@@ -268,6 +274,12 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 * **NoveltyBench: Evaluating Language Models for Humanlike Diversity** [[paper](http://arxiv.org/abs/2504.05228)] 2025-04  
       Yiming Zhang, Harshita Diddee, Susan Holm, Hanchen Liu, Xinyue Liu, Vinay Samuel, Barry Wang, Daphne Ippolito.
+
+* **Variance reduction in output from generative AI** [[paper](http://arxiv.org/abs/2503.01033)] 2025-03  
+      Yu Xie, Yueqi Xie.
+
+* **Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)** [[paper](http://openreview.net/forum?id=saDOrrnNTz)] 2025  
+      Liwei Jiang, Yuanjun Chai, Margaret Li, Mickel Liu, Raymond Fok, Nouha Dziri, Yulia Tsvetkov, Maarten Sap, Yejin Choi. **NeurIPS 2025**.
 
 * **Every Answer Matters: Evaluating Commonsense with Probabilistic Measures** [[paper](http://arxiv.org/abs/2406.04145)] 2024-06  
       Qi Cheng, Michael Boratko, Pranay Kumar Yelugam, Tim O'Gorman, Nalini Singh, Andrew McCallum, Xiang Lorraine Li. **ACL 2024**.
@@ -529,6 +541,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 ## Societal Impact
 
 
+
+* **Artificial Intelligence Tools Expand Scientists’ Impact but Contract Science’s Focus** [[paper](http://doi.org/10.1038/s41586-025-09922-y)] 2026  
+      Qianyue Hao, Fengli Xu, Yong Li, James Evans. **Nature**.
 
 * **Homogenization Effects of Large Language Models on Human Creative Ideation** [[paper](http://dl.acm.org/doi/10.1145/3635636.3656204)] 2025-10  
       Barrett R Anderson, Jash Hemant Shah, Max Kreminski.
