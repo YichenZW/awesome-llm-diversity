@@ -245,6 +245,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 
 
+* **UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs** [[paper](http://arxiv.org/abs/2606.06622)] 2026-06  
+      Amirhossein Abaskohi, Amirhossein Dabiriaghdam, Liang Luo, Ellie Dingqiao Wen, Lele Wang, Giuseppe Carenini, Peter West.
+
 * **Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual Creativity** [[paper](http://arxiv.org/abs/2509.22641)] 2025-10  
       Arkadiy Saakyan, Najoung Kim, Smaranda Muresan, Tuhin Chakrabarty.
 
@@ -317,6 +320,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 ## Analysis & Theory
 
 
+
+* **Towards Physical Intuitions for Alignment Dynamics: A Case Study With Randomness Crystallization** [[paper](http://arxiv.org/abs/2606.29933)] 2026-06  
+      Kunal Samanta, Ari Holtzman, Peter West.
 
 * **SpecEval: Evaluating Model Adherence to Behavior Specifications** [[paper](http://arxiv.org/abs/2509.02464)] 2026-01  
       Ahmed Ahmed, Kevin Klyman, Yi Zeng, Sanmi Koyejo, Percy Liang.
