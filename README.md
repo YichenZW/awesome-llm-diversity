@@ -26,6 +26,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 
 
+* **Measuring and Mitigating Solution Mode Collapse in RLVR** [[paper](http://arxiv.org/abs/2610.11064)] 2026-10  
+      Liv G. d'Aliberti, Marwa Abdulhai, Sofiia Druchyna, Peter Henderson, Manoel Horta Ribeiro.
+
 * **RAGEN-2: Reasoning Collapse in Agentic RL** [[paper](http://arxiv.org/abs/2604.06268)] 2026-04  
       Zihan Wang, Chi Gui, Xing Jin, Qineng Wang, Licheng Liu, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li.
 
@@ -120,6 +123,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 * **No Single Best Model for Diversity: Learning a Router for Sample Diversity** [[paper](http://arxiv.org/abs/2604.02319)] 2026-04  
       Yuhan Liu, Fangyuan Xu, Vishakh Padmakumar, Daphne Ippolito, Eunsol Choi.
+
+* **STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts** [[paper](http://arxiv.org/abs/2602.14265)] 2026-02  
+      Zachary Bamberger, Till R. Saenger, Gilad Morad, Ofra Amir, Brandon M. Stewart, Amir Feder.
 
 * **Learning to Discover at Test Time** [[paper](http://arxiv.org/abs/2601.16175)] 2026-01  
       Mert Yuksekgonul, Daniel Koceja, Xinhao Li, Federico Bianchi, Jed McCaleb, Xiaolong Wang, Jan Kautz, Yejin Choi, James Zou, Carlos Guestrin, Yu Sun.
