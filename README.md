@@ -385,6 +385,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 
 
+* **Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization** [[paper](http://arxiv.org/abs/2508.13993)] 2025-08  
+      Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun. **ACL 2026**.
+
 * **PrefPalette: Personalized Preference Modeling with Latent Attributes** [[paper](http://arxiv.org/abs/2507.13541)] 2025-07  
       Shuyue Stella Li, Melanie Sclar, Hunter Lang, Ansong Ni, Jacqueline He, Puxin Xu, Andrew Cohen, Chan Young Park, Yulia Tsvetkov, Asli Celikyilmaz.
 
