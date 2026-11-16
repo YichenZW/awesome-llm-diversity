@@ -189,6 +189,9 @@ This repository is built and maintained using the [automatic maintainer](https:/
 
 
 
+* **Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning** [[paper](https://arxiv.org/abs/2609.14896)] 2026-09
+      Jiayi Yuan, Hangoo Kang, James Jihao Liu, Yejin Choi, Vikram Iyer, Liwei Jiang, Natasha Jaques.
+
 * **UpSkill: Mutual Information Skill Learning for Structured Response Diversity in LLMs** [[paper](http://arxiv.org/abs/2602.22296)] 2026-05  
       Devan Shah, Owen Yang, Daniel Yang, Chongyi Zheng, Benjamin Eysenbach.
 
